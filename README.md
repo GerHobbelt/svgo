@@ -1,4 +1,4 @@
-**english** | [русский](https://github.com/svg/svgo/blob/master/README.ru.md)
+**english** | [русский](https://github.com/prantlf/svgo/blob/master/README.ru.md)
 - - -
 
 <img src="https://svg.github.io/svgo-logo.svg" width="200" height="200" alt="logo"/>
@@ -7,6 +7,8 @@
 
 **SVG O**ptimizer is a Nodejs-based tool for optimizing SVG vector graphics files.
 ![](https://mc.yandex.ru/watch/18431326)
+
+This is a fork maintaining the synchronous interface of the version `0.x`.
 
 ## Why?
 
@@ -69,7 +71,7 @@ Want to know how it works and how to write your own plugin? [Of course you want 
 ## How to use
 
 ```sh
-$ [sudo] npm install -g svgo
+$ [sudo] npm install -g @prantlf/svgo
 ```
 
 ```

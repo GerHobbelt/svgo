@@ -65,11 +65,12 @@ SVGO имеет расширяемую архитектуру, в которой
 
 Хотите узнать, как это работает и как написать свой плагин? [Конечно же, да!](https://github.com/svg/svgo/blob/master/docs/how-it-works/ru.md).
 
+Этот форк соблюдает синхронный интерфейс версии `0.x`.
 
 ## Как использовать
 
 ```sh
-$ [sudo] npm install -g svgo
+$ [sudo] npm install -g @prantlf/svgo
 ```
 
 ```

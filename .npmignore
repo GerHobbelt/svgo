@@ -1,5 +1,7 @@
 docs
 examples
+html-report
+node_modules
 test
 lib-cov
 .editorconfig
@@ -9,3 +11,7 @@ lib-cov
 lcov.info
 logo.svg
 CHANGELOG.MD
+bin/svgo-profiling
+*.sublime-*
+*.log
+.DS_Store
